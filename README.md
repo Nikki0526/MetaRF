@@ -11,4 +11,4 @@ Implementation of the attached few-shot yield prediction results.
 ![image](https://raw.githubusercontent.com/Nikki0526/MetaRF/main/image/high-yield.png)
 
 ### Testing results visualization
-![image](https://raw.githubusercontent.com/Nikki0526/MetaRF/main/image/scatter_plot.png)
+![image](https://raw.githubusercontent.com/Nikki0526/MetaRF/main/image/scatter_plot.PNG)
