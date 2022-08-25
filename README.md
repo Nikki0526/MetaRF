@@ -2,7 +2,7 @@
 Implementation of the attached few-shot yield prediction results. 
 
 ### Workflow
-![image](image/workflow_updated.pdf)
+![image](https://raw.githubusercontent.com/Nikki0526/MetaRF/main/image/workflow_updated.png)
 
 ### Training percentage
 ![image](./image/training_percentage.pdf)
