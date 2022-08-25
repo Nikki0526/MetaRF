@@ -5,10 +5,10 @@ Implementation of the attached few-shot yield prediction results.
 ![image](https://raw.githubusercontent.com/Nikki0526/MetaRF/main/image/workflow_updated.png)
 
 ### Training percentage
-![image](./image/training_percentage.pdf)
+![image](https://raw.githubusercontent.com/Nikki0526/MetaRF/main/image/training_percentage.png)
 
 ### High-yield reaction selection
-![image](./image/high-yield.pdf)
+![image](https://raw.githubusercontent.com/Nikki0526/MetaRF/main/image/high-yield.png)
 
 ### Testing results visualization
-![image](./image/scatter_plot.pdf)
+![image](https://raw.githubusercontent.com/Nikki0526/MetaRF/main/image/scatter_plot.png)
