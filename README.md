@@ -2,7 +2,7 @@
 Implementation of the attached few-shot yield prediction results. 
 
 ### Workflow
-![image](./image/workflow_updated.pdf)
+![image](image/workflow_updated.pdf)
 
 ### Training percentage
 ![image](./image/training_percentage.pdf)
