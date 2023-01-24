@@ -24,10 +24,15 @@ git clone https://github.com/Nikki0526/MetaRF.git
 * We also provide the data after preprocessing in ``/data``.
 
 ## Model training
+* Run ``$ train.py`` to perform meta-training and model saving.
+* Our trained models can be downloaded from Google Drive.
 
+## Model fine-tuning and testing
+* Run ``$ test.py`` to perform few-shot fine-tuning, dimension-reduction based sampling method and model evaluation.
+* We use relative path in this repository. Please put the data, code and trained model in the same folder.
 
-## Model testing
-Our trained models can be downloaded from Google Drive.
+## Tutorial
+We provide a step-by-step tutorial that includes the whole workflow in ``$ MetaRF - Tutorial.ipynb``
 
 ## Questions
 For further question about the code, please contact 'kexinchen0526@gmail.com'.
