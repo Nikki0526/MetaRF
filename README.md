@@ -1,4 +1,5 @@
 # MetaRF: Differentiable Random Forest for Reaction Yield Prediction with a Few Trails
+This is the Tensorflow implementation for our paper "MetaRF: Differentiable Random Forest for Reaction Yield Prediction with a Few Trails".
 
 ## Workflow
 ![image](https://raw.githubusercontent.com/Nikki0526/MetaRF/main/image/workflow_updated.png)
