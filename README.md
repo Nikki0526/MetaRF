@@ -1,14 +1,14 @@
-# Code and data
-Implementation of the attached few-shot yield prediction results. 
+# MetaRF: Differentiable Random Forest for Reaction Yield Prediction with a Few Trails
 
 ## Workflow
 ![image](https://raw.githubusercontent.com/Nikki0526/MetaRF/main/image/workflow_updated.png)
 
-## Training percentage
-![image](https://raw.githubusercontent.com/Nikki0526/MetaRF/main/image/training_percentage.png)
-
-## High-yield reaction selection
-![image](https://raw.githubusercontent.com/Nikki0526/MetaRF/main/image/high-yield.png)
-
-## Testing results visualization
-![image](https://raw.githubusercontent.com/Nikki0526/MetaRF/main/image/scatter_plot.PNG)
+## Setup & Training
+1. Check dependencies
+'''
+ - tensorflow==2.9.2
+ - kennard-stone==1.1.2
+ - numpy
+ - pandas
+ - sklearn
+'''
