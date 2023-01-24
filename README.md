@@ -3,7 +3,7 @@
 ## Workflow
 ![image](https://raw.githubusercontent.com/Nikki0526/MetaRF/main/image/workflow_updated.png)
 
-## Setup & Training
+## Setup
 1. Check dependencies
 ```
  - tensorflow==2.9.2
@@ -15,4 +15,10 @@
 2. Clone this repo
 ```
 git clone https://github.com/Nikki0526/MetaRF.git
+```
+
+## Preprocessing
+Run
+```
+$ data_preprocessing.py
 ```
