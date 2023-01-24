@@ -12,3 +12,7 @@
  - pandas
  - sklearn
 ```
+2. Clone this repo
+```
+git clone https://github.com/Nikki0526/MetaRF.git
+```
