@@ -17,5 +17,11 @@
 git clone https://github.com/Nikki0526/MetaRF.git
 ```
 
-## Preprocessing
-* Run ``$ data_preprocessing.py`` to preprocess the data and get prepared for the model training. This step includes random forest module and dimension-reduction module. We also provide the processed data in ``/data``
+## Data preprocessing
+* Run ``$ data_preprocessing.py`` to preprocess the data and get prepared for the model training. This step includes random forest module and dimension-reduction module. 
+* The original data in this paper is from [[1]](#1), [[2]](#2) and [[3]](#3).
+* We also provide the data after preprocessing in ``/data``.
+
+## References
+<a id="1">[1]</a> Ahneman, D.T., Estrada, J.G., Lin, S., Dreher, S.D., Doyle, A.G.: Predicting reaction performance in c–n cross-coupling using machine learning. Science 360(6385), 186–190(2018).
+<a id="2">[2]</a> xxx
