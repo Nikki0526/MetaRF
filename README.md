@@ -33,7 +33,7 @@ git clone https://github.com/Nikki0526/MetaRF.git
 * We use relative path in this repository. Please place the downloaded model in the ``/model`` folder.
 
 ## Tutorial
-We provide a step-by-step tutorial that includes the whole workflow (including Data preprocessing, Model training, Model fine-tuning and testing) in ``$ Workflow of MetaRF - Tutorial.ipynb``. We also provide a colab version: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HywJ1we0FU6imcR-SDABTo91SP1NUc7Y)
+We provide a step-by-step tutorial that includes the whole workflow (including Data preprocessing, Model training, Model fine-tuning and testing) in ``$ Workflow of MetaRF - Tutorial.ipynb``. We also provide a colab version, which can help users easily access our code and environment by clicking: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HywJ1we0FU6imcR-SDABTo91SP1NUc7Y?usp=share_link)
 
 ```
 Note: 
