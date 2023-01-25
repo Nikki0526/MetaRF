@@ -26,7 +26,7 @@ git clone https://github.com/Nikki0526/MetaRF.git
 
 ## Model training
 * Run ``$ train.py`` to perform meta-training and model saving.
-* Our trained model can be downloaded from Google Drive.
+* Our trained model can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1O-1K9h3k77MbM6E-spZ0hW6AsLQOoObB?usp=share_link).
 
 ## Model fine-tuning and testing
 * Run ``$ test.py`` to perform few-shot fine-tuning, dimension-reduction based sampling method and model evaluation.
