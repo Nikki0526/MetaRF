@@ -33,7 +33,7 @@ git clone https://github.com/Nikki0526/MetaRF.git
 * We use relative path in this repository. Please place the trained model in the ``/model`` folder.
 
 ## Tutorial
-We provide a step-by-step tutorial that includes the whole workflow(including Data preprocessing, Model training, Model fine-tuning and testing) in ``$ Workflow of MetaRF - Tutorial.ipynb``
+We provide a step-by-step tutorial that includes the whole workflow (including Data preprocessing, Model training, Model fine-tuning and testing) in ``$ Workflow of MetaRF - Tutorial.ipynb``
 
 ## Questions
 For further question about the code, please contact 'kexinchen0526@gmail.com'.
