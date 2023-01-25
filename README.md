@@ -35,7 +35,7 @@ git clone https://github.com/Nikki0526/MetaRF.git
 ## Tutorial
 We provide a step-by-step tutorial that includes the whole workflow (including Data preprocessing, Model training, Model fine-tuning and testing) in ``$ Workflow of MetaRF - Tutorial.ipynb``
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://baidu.com]
 
 ```
 Note: 
