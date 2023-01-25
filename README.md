@@ -22,7 +22,7 @@ git clone https://github.com/Nikki0526/MetaRF.git
 * Run ``$ data_preprocessing.py`` to preprocess the data. 
 * This step includes random forest module and dimension-reduction module. 
 * The original reaction and yield data in this paper is from [[1]](#1), [[2]](#2) and [[3]](#3).
-* We also provide the data after preprocessing in ``/data``(Two datasets are too large for github and it can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1uDrZnTRI1s4AXaDu9xJOzgpysCz10B5g?usp=share_link)). 
+* We also provide the data after preprocessing in ``/data``(Two datasets are too large for github and they can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1uDrZnTRI1s4AXaDu9xJOzgpysCz10B5g?usp=share_link)). 
 
 ## Model training
 * Run ``$ train.py`` to perform meta-training and model saving.
