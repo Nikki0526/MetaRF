@@ -34,6 +34,7 @@ git clone https://github.com/Nikki0526/MetaRF.git
 
 ## Tutorial
 We provide a step-by-step tutorial that includes the whole workflow (including Data preprocessing, Model training, Model fine-tuning and testing) in ``$ Workflow of MetaRF - Tutorial.ipynb``
+{{ badge //drive/1HywJ1we0FU6imcR-SDABTo91SP1NUc7Y}}
 ```
 Note: 
 In this tutorial, we take the procedure for Buchwald Hartwig HTE dataset as an example. The other two datasets share the same procedure.
