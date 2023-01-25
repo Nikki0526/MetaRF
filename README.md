@@ -19,7 +19,7 @@ git clone https://github.com/Nikki0526/MetaRF.git
 ```
 
 ## Data preprocessing
-* Run ``$ data_preprocessing.py`` to preprocess the data and get prepared for the model training. 
+* Run ``$ data_preprocessing.py`` to preprocess the data. 
 * This step includes random forest module and dimension-reduction module. 
 * The original reaction and yield data in this paper is from [[1]](#1), [[2]](#2) and [[3]](#3).
 * We also provide the data after preprocessing in ``/data``.
