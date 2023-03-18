@@ -34,7 +34,7 @@ git clone https://github.com/Nikki0526/MetaRF.git
 * [update] We add more baseline comparision in ``$ baseline.py``, including [RXNFP](https://github.com/rxn4chemistry/rxn_yields)[4], [DRFP](https://github.com/reymond-group/drfp)[5], etc.
 
 ## Tutorial
-We provide a step-by-step tutorial that includes the whole workflow (including Data preprocessing, Model training, Model fine-tuning and testing) in ``$ Workflow of MetaRF - Tutorial.ipynb``. We also provide a colab version, which can help users easily access our code and environment by clicking: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HywJ1we0FU6imcR-SDABTo91SP1NUc7Y?usp=share_link)
+We provide a step-by-step tutorial that includes the whole workflow (including Data preprocessing, Model training, Model fine-tuning and testing, Baseline comparision) in ``$ Workflow of MetaRF - Tutorial.ipynb``. We also provide a colab version, which can help users easily access our code and environment by clicking: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HywJ1we0FU6imcR-SDABTo91SP1NUc7Y?usp=share_link)
 
 ```
 Note: 
@@ -52,4 +52,6 @@ For further question about the code, please contact 'kexinchen0526@gmail.com'.
 <a id="3">[3]</a> Saebi, M., Nan, B., Herr, J., Wahlers, J., Guo, Z., Zura  ́nski, A., Kogej, T., Norrby, P.-O., Doyle, A., Wiest, O., et al.: On the use of real-world datasets for reaction yield prediction. ChemRxiv (2021).
 
 <a id="4">[4]</a> Schwaller, P., Vaucher, A. C., Laino, T., & Reymond, J. L. (2021). Prediction of chemical reaction yields using deep learning. Machine learning: science and technology, 2(1), 015016.
+
+<a id="5">[5]</a> Probst, D., Schwaller, P., & Reymond, J. L. (2022). Reaction classification and yield prediction using the differential reaction fingerprint DRFP. Digital discovery, 1(2), 91-97.
 
