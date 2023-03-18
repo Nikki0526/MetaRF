@@ -31,7 +31,7 @@ git clone https://github.com/Nikki0526/MetaRF.git
 ## Model fine-tuning and testing
 * Run ``$ test.py`` to perform few-shot fine-tuning, dimension-reduction based sampling method and model evaluation.
 * We use relative path in this repository. Please place the downloaded model in the ``/model`` folder.
-* [update] We add more baseline comparision in ``$ baseline.py``, including [RXNFP](https://github.com/rxn4chemistry/rxn_yields), [DRFP](https://github.com/reymond-group/drfp), etc.
+* [update] We add more baseline comparision in ``$ baseline.py``, including [RXNFP](https://github.com/rxn4chemistry/rxn_yields)[4], [DRFP](https://github.com/reymond-group/drfp)[5], etc.
 
 ## Tutorial
 We provide a step-by-step tutorial that includes the whole workflow (including Data preprocessing, Model training, Model fine-tuning and testing) in ``$ Workflow of MetaRF - Tutorial.ipynb``. We also provide a colab version, which can help users easily access our code and environment by clicking: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HywJ1we0FU6imcR-SDABTo91SP1NUc7Y?usp=share_link)
@@ -50,4 +50,6 @@ For further question about the code, please contact 'kexinchen0526@gmail.com'.
 <a id="2">[2]</a> Perera, D., Tucker, J.W., Brahmbhatt, S., Helal, C.J., Chong, A., Farrell, W., Richardson, P., Sach, N.W.: A platform for automated nanomole-scale reaction screening and micromole-scale synthesis in flow. Science 359(6374), 429–434(2018).
 
 <a id="3">[3]</a> Saebi, M., Nan, B., Herr, J., Wahlers, J., Guo, Z., Zura  ́nski, A., Kogej, T., Norrby, P.-O., Doyle, A., Wiest, O., et al.: On the use of real-world datasets for reaction yield prediction. ChemRxiv (2021).
+
+<a id="4">[4]</a> Schwaller, P., Vaucher, A. C., Laino, T., & Reymond, J. L. (2021). Prediction of chemical reaction yields using deep learning. Machine learning: science and technology, 2(1), 015016.
 
