@@ -31,7 +31,7 @@ git clone https://github.com/Nikki0526/MetaRF.git
 ## Model fine-tuning and testing
 * Run ``$ test.py`` to perform few-shot fine-tuning, dimension-reduction based sampling method and model evaluation.
 * We use relative path in this repository. Please place the downloaded model in the ``/model`` folder.
-* [update] We add more baseline comparision, including [RXNFP](https://github.com/rxn4chemistry/rxn_yields), [DRFP](https://github.com/reymond-group/drfp), etc.
+* [update] We add more baseline comparision in ``$ baseline.py``, including [RXNFP](https://github.com/rxn4chemistry/rxn_yields), [DRFP](https://github.com/reymond-group/drfp), etc.
 
 ## Tutorial
 We provide a step-by-step tutorial that includes the whole workflow (including Data preprocessing, Model training, Model fine-tuning and testing) in ``$ Workflow of MetaRF - Tutorial.ipynb``. We also provide a colab version, which can help users easily access our code and environment by clicking: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HywJ1we0FU6imcR-SDABTo91SP1NUc7Y?usp=share_link)
